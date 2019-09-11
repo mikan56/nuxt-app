@@ -6,7 +6,7 @@
 
 |App|Version|
 |:----|:----|
-|NodeJS|10.16.2 or 12.3.1|
+|NodeJS|12.3.1|
 |Yarn|1.16.0|
 
 **Important**
@@ -17,7 +17,7 @@
 
 ``` bash
 $ mkdir [project-name] && cd [project-name]
-$ git clone https://liberowork.backlog.jp/git/HTML5_TPL/nuxtjs-app.git
+$ git clone https://github.com/mikan56/nuxt-app.git
 ```
 
 ## Build Setup
